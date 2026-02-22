@@ -114,7 +114,3 @@ Dado el desbalance del dataset, se puso especial énfasis en el Recall de la cla
 Proyecto desarrollado en el contexto del desafío académico del bootcamp de Data Science de Desafío Latam, 
 con el objetivo de aplicar técnicas de aprendizaje supervisado en un caso real de predicción de churn.
 """
-
-output_path = "/mnt/data/README_Desafio_Churn_Ignacio_Robles.md"
-convert_text(readme_md, 'md', format='md', outputfile=output_path, extra_args=['--standalone'])
-output_path
