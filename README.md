@@ -1,6 +1,3 @@
-from pypandoc import convert_text
-
-readme_md = """
 # 📊 Predicción de Churn – Desafío Data Science g-115
 **Autor:** Ignacio Robles  
 **Programa:** Data Science – Generación g-115  
